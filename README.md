@@ -14,12 +14,12 @@ Add the following scripts in html.
 
 ````
 
-Follow [scrollMagic usage](https://github.com/janpaepke/ScrollMagic) for basic setup. Inside of main.js, you can uncomment addIndicators method call in each scene to see that scene's trigger and offsets.
+Follow [scrollMagic usage](https://github.com/janpaepke/ScrollMagic) for basic setup. Inside of main.js, you can uncomment `addIndicators` method call in each scene to see that scene's scrollMagic trigger and offsets.
 
 ## Helpful Resources
-*[scrollMagic](http://scrollmagic.io/)
-*[scrollMagic examples](https://scrollmagic.io/examples/)
-*[scrollMagic documentation](http://scrollmagic.io/docs/index.html)
-*[scrollMagic and greensock tutorial](https://greensock.com/scrollmagic/)
-*[scrollMagic Cheat Sheet](https://ihatetomatoes.net/wp-content/uploads/2016/08/ScrollMagic-CheatsheetV2.pdf)
-*[greensock documentation](https://greensock.com/docs/v2)
+* [scrollMagic](http://scrollmagic.io/)
+* [scrollMagic examples](https://scrollmagic.io/examples/)
+* [scrollMagic documentation](http://scrollmagic.io/docs/index.html)
+* [scrollMagic and greensock tutorial](https://greensock.com/scrollmagic/)
+* [scrollMagic Cheat Sheet](https://ihatetomatoes.net/wp-content/uploads/2016/08/ScrollMagic-CheatsheetV2.pdf)
+* [greensock documentation](https://greensock.com/docs/v2)
