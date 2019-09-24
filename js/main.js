@@ -117,6 +117,7 @@ $(document).ready(function () {
 
 
     // fade-slide
+    // use scrollMagic scene.reverse() method to ensure animation only plays once 
     $(".fade-slide .wrapper").each(function () {
         var tl = new TimelineMax();
         var child = $(this).find(".child");
@@ -157,6 +158,8 @@ $(document).ready(function () {
             //     indent: 40 
             // })
             .addTo(controller)
+            .reverse(false)
+            
     })
 
 
