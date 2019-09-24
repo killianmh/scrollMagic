@@ -12,6 +12,8 @@ Add the following scripts in html.
 
 <script src="js/main.js"></script>
 
+````
+
 Follow [scrollMagic usage](https://github.com/janpaepke/ScrollMagic) for basic setup. Inside of main.js, you can uncomment addIndicators method call in each scene to see that scene's trigger and offsets.
 
 ## Helpful Resources
